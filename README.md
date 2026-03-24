@@ -35,3 +35,8 @@ This dashboard is engineered to solve 3 critical business bottlenecks:
 ---
 **Main Tools:** Excel Power Pivot, DAX, Power Query, VBA.  
 *Specialized for Solar Energy Operations, Financial Modeling, and Market Analytics in East Africa.*
+---
+## ℹ️ Disclaimer & Data Attribution
+* **Project Context:** This is a professional simulation/capstone project. 
+* **Organization:** The analysis is based on a fictional entity named **ARC Power**.
+* **Data Nature:** The dataset is **Synthetic**, specifically engineered to mirror the real-world market dynamics, consumer behavior, and cultural payment patterns of the **Kenyan Solar Industry**. No sensitive or private corporate data has been used.
